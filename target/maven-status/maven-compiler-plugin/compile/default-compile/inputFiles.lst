@@ -1,0 +1,13 @@
+/Users/leila/parkingsystem/src/main/java/com/parkit/parkingsystem/constants/Fare.java
+/Users/leila/parkingsystem/src/main/java/com/parkit/parkingsystem/service/FareCalculatorService.java
+/Users/leila/parkingsystem/src/main/java/com/parkit/parkingsystem/App.java
+/Users/leila/parkingsystem/src/main/java/com/parkit/parkingsystem/config/DataBaseConfig.java
+/Users/leila/parkingsystem/src/main/java/com/parkit/parkingsystem/dao/ParkingSpotDAO.java
+/Users/leila/parkingsystem/src/main/java/com/parkit/parkingsystem/service/ParkingService.java
+/Users/leila/parkingsystem/src/main/java/com/parkit/parkingsystem/model/ParkingSpot.java
+/Users/leila/parkingsystem/src/main/java/com/parkit/parkingsystem/model/Ticket.java
+/Users/leila/parkingsystem/src/main/java/com/parkit/parkingsystem/dao/TicketDAO.java
+/Users/leila/parkingsystem/src/main/java/com/parkit/parkingsystem/util/InputReaderUtil.java
+/Users/leila/parkingsystem/src/main/java/com/parkit/parkingsystem/service/InteractiveShell.java
+/Users/leila/parkingsystem/src/main/java/com/parkit/parkingsystem/constants/DBConstants.java
+/Users/leila/parkingsystem/src/main/java/com/parkit/parkingsystem/constants/ParkingType.java
