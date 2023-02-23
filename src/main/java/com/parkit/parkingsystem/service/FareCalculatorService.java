@@ -2,7 +2,7 @@ package com.parkit.parkingsystem.service;
 import java.util.concurrent.TimeUnit;
 
 import com.parkit.parkingsystem.constants.Fare;
-//import com.parkit.parkingsystem.model.Ticket;
+import com.parkit.parkingsystem.model.Ticket;
 
 
 public class FareCalculatorService {
@@ -17,7 +17,7 @@ public class FareCalculatorService {
 
 	// Check whether OutTime is not before InTime and that OutTime and InTime are
 	// not equal
-	if (ticket.getOutTime().before(ticket.getInTime()) && ticket.getOutTime() != ticket.getInTime()) {
+	   if (ticket.getOutTime().before(ticket.getInTime()) && ticket.getOutTime() != ticket.getInTime()) {
 	    throw new IllegalArgumentException("Out time provided is incorrect:" + ticket.getOutTime().toString());
 	}
               //int inHour = ticket.getInTime().getTime();
